@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bobr_\\OneDrive\\Документы\\Works\\C#\\Calc\\Calc\\Calc\\Calc.csproj",
+      "projectUniqueName": "D:\\Git\\Calc-2\\Calc\\Calc.csproj",
       "projectName": "Calc",
-      "projectPath": "C:\\Users\\bobr_\\OneDrive\\Документы\\Works\\C#\\Calc\\Calc\\Calc\\Calc.csproj",
+      "projectPath": "D:\\Git\\Calc-2\\Calc\\Calc.csproj",
       "packagesPath": "C:\\Users\\bobr_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bobr_\\OneDrive\\Документы\\Works\\C#\\Calc\\Calc\\Calc\\obj\\",
+      "outputPath": "D:\\Git\\Calc-2\\Calc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bobr_\\AppData\\Roaming\\NuGet\\NuGet.Config",

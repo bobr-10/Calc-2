@@ -47,7 +47,10 @@ namespace calculator_c_sharp
                 value = Console.ReadLine();
             }
             while (value == "y" || value == "Y");
+
+            Console.Write("Hello!");
         }
+
     }
 
 }
